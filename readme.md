@@ -1,13 +1,13 @@
 # Interesting series all can watch 🎥
 
-This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting series one can watch. 🔭
+This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting series one can watch. 
 
 #### Related websites / repositories 
 
 - [trending TV shows](https://trakt.tv/shows/trending)
 
 
-# TV Series 🎥
+# TV Series 
 
 # drama
 
