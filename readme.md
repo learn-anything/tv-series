@@ -1,4 +1,16 @@
-# Interesting series all can watch 🎥
+<h1 align="center">   Interesting series all can watch 🎥 </h1>
+
+<div align="center">
+<a href="https://www.patreon.com/learnanything">
+		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
+	</a>
+	<a href="https://github.com/learn-anything/tv-series/blob/master/LICENSE">
+		<img src="https://img.shields.io/pypi/l/pipenv.svg">
+	</a>
+</div>
+
+<h1 align="center"> Description 📕</h1>
+
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting series one can watch. 
 
@@ -6,8 +18,7 @@ This is an extension to [Learn Anything Search Engine](https://learn-anything.xy
 
 - [trending TV shows](https://trakt.tv/shows/trending)
 
-
-# TV Series 
+<h1 align="center">   TV Series  </h1>
 
 # drama
 
