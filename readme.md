@@ -1,5 +1,4 @@
 # Interesting series all can watch 🎥 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-
 ## Description 📕
 Here is a curated list of all the interesting series one can watch. 
 
