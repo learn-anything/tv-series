@@ -1,9 +1,11 @@
-# Interesting series all can watch 🎥 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-## Description 📕
-Here is a curated list of all the interesting series one can watch. 
+# Interesting TV Series [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-### Related websites / repositories 
-- [trending TV shows](https://trakt.tv/shows/trending)
+This is a curated list of all the interesting series.
+
+Pull requests are welcome. Thank you. 💜
+
+## Related websites / repositories 
+- [Trending TV shows](https://trakt.tv/shows/trending)
 
 ## TV Series
 ### Drama
@@ -54,5 +56,6 @@ Here is a curated list of all the interesting series one can watch.
 - [Hemlock Grove](https://trakt.tv/shows/hemlock-grove)
 
 
-
+## Contribute 
+If you found an interseting TV series that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
  
