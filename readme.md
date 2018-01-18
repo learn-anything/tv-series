@@ -1,61 +1,59 @@
 # Interesting TV Series [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+[Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
-This is a curated list of all the interesting series.
-
-Pull requests are welcome. Thank you. 💜
-
-## Related websites / repositories 
-- [Trending TV shows](https://trakt.tv/shows/trending)
-
-## TV Series
-### Drama
-- [better call Saul](https://trakt.tv/shows/better-call-saul)
-- [game of thrones](https://trakt.tv/shows/game-of-thrones)
-- [breaking bad](https://trakt.tv/shows/breaking-bad)
-- [walking dead](https://trakt.tv/shows/the-walking-dead)
+## Drama
+- [Better call Saul](https://trakt.tv/shows/better-call-saul)
+- [Game of thrones](https://trakt.tv/shows/game-of-thrones)
+- [Breaking bad](https://trakt.tv/shows/breaking-bad)
+- [Walking dead](https://trakt.tv/shows/the-walking-dead)
 - [Dexter](https://trakt.tv/shows/dexter)
-  - great up to season 4
 - [Sherlock](https://trakt.tv/shows/sherlock)
-- [supernatural](https://trakt.tv/shows/supernatural)
+- [Supernatural](https://trakt.tv/shows/supernatural)
 - [House](https://trakt.tv/shows/house)
 - [Castle](https://trakt.tv/shows/castle)
-- [prison break](https://trakt.tv/shows/prison-break)
-- [house of cards](https://trakt.tv/shows/house-of-cards)
-- [vikings](https://trakt.tv/shows/vikings)
+- [Prison break](https://trakt.tv/shows/prison-break)
+- [House of cards](https://trakt.tv/shows/house-of-cards)
+- [Vikings](https://trakt.tv/shows/vikings)
 - [Californication](https://trakt.tv/shows/californication)
 - [Mr. Robot](https://trakt.tv/shows/mr-robot)
-- [the wire](https://trakt.tv/shows/the-wire)
+- [The wire](https://trakt.tv/shows/the-wire)
 - [Hannibal](https://trakt.tv/shows/hannibal)
-- [westworld](https://trakt.tv/shows/westworld)
-- [true detective](https://trakt.tv/shows/true-detective)
+- [Westworld](https://trakt.tv/shows/westworld)
+- [True detective](https://trakt.tv/shows/true-detective)
 - [Halt and catch fire](https://trakt.tv/shows/halt-and-catch-fire)
-- [the knick](https://trakt.tv/shows/the-knick)
+- [The knick](https://trakt.tv/shows/the-knick)
 - [Fargo](https://trakt.tv/movies/fargo-1996)
-- [stranger things](https://trakt.tv/shows/stranger-things)
-- [twin peaks](https://trakt.tv/shows/twin-peaks)
+- [Stranger things](https://trakt.tv/shows/stranger-things)
+- [Twin peaks](https://trakt.tv/shows/twin-peaks)
 - [Bates Motel](https://trakt.tv/shows/bates-motel)
 
-### Comedy
-- [orange is the new black](https://trakt.tv/shows/orange-is-the-new-black)
-- [south park](https://trakt.tv/shows/south-park)
-- [community](https://trakt.tv/shows/community)
-- [silicon valley](https://trakt.tv/shows/silicon-valley)
+## Comedy
+- [Orange is the new black](https://trakt.tv/shows/orange-is-the-new-black)
+- [South park](https://trakt.tv/shows/south-park)
+- [Community](https://trakt.tv/shows/community)
+- [Silicon valley](https://trakt.tv/shows/silicon-valley)
 - [Rick and Morty](https://trakt.tv/shows/rick-and-morty)
-- [the IT crowd](https://trakt.tv/shows/the-it-crowd)
+- [The IT crowd](https://trakt.tv/shows/the-it-crowd)
 
-### Scifi
-- [firefly](https://trakt.tv/shows/firefly)
+## Scifi
+- [Firefly](https://trakt.tv/shows/firefly)
 - [Stargate SG-1](https://trakt.tv/shows/stargate-sg-1)
-- [the expanse](https://trakt.tv/shows/the-expanse)
+- [The expanse](https://trakt.tv/shows/the-expanse)
 
-### Documentary
+## Documentary
 - [Cosmos](https://trakt.tv/shows/cosmos)
 - [Cosmos: a spacetime odyssey](https://trakt.tv/shows/cosmos-a-spacetime-odyssey)
 
-### Mystery
+## Mystery
 - [Hemlock Grove](https://trakt.tv/shows/hemlock-grove)
 
+## Related
+- [Trending TV shows](https://trakt.tv/shows/trending)
 
-## Contribute 
-If you found an interseting TV series that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
- 
+## More lists 📝
+For more lists like this, see [here](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Learn Anything](https://learn-anything.xyz) has waived all copyright and related or neighboring rights to this work.
