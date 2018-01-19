@@ -2,6 +2,7 @@
 Ensure your pull request adheres to the following guidelines:
 - Search included TV series before adding a new one, as yours may be a duplicate.
 - Use the following format: `[Name](link) - Description.`
+- The link should lead to the TV series on [trak.tv](https://trakt.tv).
 - The TV series should be put into its appropriate category. Pick the one you think is closest if you are not sure.
 - Only add TV Series you really think are actually interesting.
 - Start the description with a capital and end with a full stop.
