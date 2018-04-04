@@ -1,5 +1,5 @@
 # Interesting TV Series [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists)
-[Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
+*Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ## Drama
 - [Better call Saul](https://trakt.tv/shows/better-call-saul)
