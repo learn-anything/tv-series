@@ -8,7 +8,7 @@ Ensure your pull request adheres to the following guidelines:
 - Don't start the description with `A` or `An`.
 - New categories or improvements to the existing categorisation are welcome.
 - Check your spelling and grammar.
-- Only add TV Series you think are interesting.
+- Only add TV Series you think are awesome.
 - You can also add related links and repositories in the end.
 
 Thank you for [your suggestions](../../edit/master/readme.md)! 💜
