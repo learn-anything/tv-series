@@ -1,5 +1,5 @@
 # Awesome TV Series [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](contributing.md#readme) before contributing.*
+*Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
 
 ## Drama
 - [Better call Saul](https://trakt.tv/shows/better-call-saul)
@@ -51,7 +51,7 @@
 - [Trending TV shows](https://trakt.tv/shows/trending)
 
 ## Contributing
-See [contribution guidelines](contributing.md#readme).
+See [contribution guidelines](CONTRIBUTING.md#readme).
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
