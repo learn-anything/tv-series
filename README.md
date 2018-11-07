@@ -11,8 +11,8 @@
 - [Documentary](#documentary)
 - [Drama](#drama)
 - [Mystery](#mystery)
-- [Related](#related)
 - [Scifi](#scifi)
+- [Related](#related)
 
 ---
 
@@ -61,15 +61,15 @@
 
 - [Hemlock Grove](https://trakt.tv/shows/hemlock-grove)
 
-## Related
-
-- [Trending TV shows](https://trakt.tv/shows/trending)
-
 ## Scifi
 
 - [Firefly](https://trakt.tv/shows/firefly)
 - [Stargate SG-1](https://trakt.tv/shows/stargate-sg-1)
 - [The expanse](https://trakt.tv/shows/the-expanse)
+
+## Related
+
+- [Trending TV shows](https://trakt.tv/shows/trending)
 
 ---
 
