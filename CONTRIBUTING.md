@@ -1,5 +1,7 @@
 # Contribution Guidelines
+
 Ensure your pull request adheres to the following guidelines:
+
 - Search included TV series before adding a new one, as yours may be a duplicate.
 - Use the following format: `[Name](link) - Description.`
 - The link should lead to the TV series on [trak.tv](https://trakt.tv).
@@ -11,4 +13,4 @@ Ensure your pull request adheres to the following guidelines:
 - Only add TV Series you think are awesome.
 - You can also add related links and repositories in the end.
 
-Thank you for [your suggestions](../../edit/master/README.md)! 💜
+Thank you for [your suggestions](../../edit/master/README.md)! ♥️
