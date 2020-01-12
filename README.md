@@ -14,14 +14,18 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Comedy
 
 - [Arrested Development](https://www.imdb.com/title/tt0367279)
+- [Bojack Horseman](https://www.imdb.com/title/tt3398228/)
+- [Brooklyn Nine-Nine])https://www.imdb.com/title/tt2467372/)
 - [Community](https://trakt.tv/shows/community)
 - [Freaks and Geeks](https://www.imdb.com/title)
 - [Last Week Tonight with John Oliver](https://www.imdb.com/title/tt3530232)
 - [Orange is the new black](https://trakt.tv/shows/orange-is-the-new-black)
+- [Parks and Recreation](https://www.imdb.com/title/tt1266020/)
 - [Rick and Morty](https://trakt.tv/shows/rick-and-morty)
 - [Seinfeld](https://www.imdb.com/title/tt0098904)
 - [Silicon valley](https://trakt.tv/shows/silicon-valley)
 - [South park](https://trakt.tv/shows/south-park)
+- [The Good Place](https://www.imdb.com/title/tt4955642/)
 - [The IT crowd](https://trakt.tv/shows/the-it-crowd)
 
 ## Documentary
@@ -47,6 +51,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Hannibal](https://trakt.tv/shows/hannibal)
 - [House of cards](https://trakt.tv/shows/house-of-cards)
 - [House](https://trakt.tv/shows/house)
+- [La Casa De Papel](https://www.imdb.com/title/tt6468322/)
 - [Mr. Robot](https://trakt.tv/shows/mr-robot)
 - [Prison break](https://trakt.tv/shows/prison-break)
 - [Sherlock](https://trakt.tv/shows/sherlock)
@@ -71,7 +76,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Black Mirror](https://www.imdb.com/title/tt2085059)
 - [Firefly](https://trakt.tv/shows/firefly)
 - [Stargate SG-1](https://trakt.tv/shows/stargate-sg-1)
-- [The expanse](https://trakt.tv/shows/the-expanse)
+- [The Expanse](https://trakt.tv/shows/the-expanse)
 
 ## Related
 
