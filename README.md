@@ -15,7 +15,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [Arrested Development](https://www.imdb.com/title/tt0367279)
 - [Bojack Horseman](https://www.imdb.com/title/tt3398228/)
-- [Brooklyn Nine-Nine])https://www.imdb.com/title/tt2467372/)
+- [Brooklyn Nine-Nine](https://www.imdb.com/title/tt2467372/)
 - [Community](https://trakt.tv/shows/community)
 - [Freaks and Geeks](https://www.imdb.com/title)
 - [Last Week Tonight with John Oliver](https://www.imdb.com/title/tt3530232)
