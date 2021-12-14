@@ -2,6 +2,7 @@
 
 _Please read [contribution guidelines](contributing.md) before contributing._
 
+- [Animation](#animation)
 - [Comedy](#comedy)
 - [Documentary](#documentary)
 - [Drama](#drama)
@@ -9,22 +10,28 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Scifi](#scifi)
 - [Related](#related)
 
+## Animation
+- [Bojack Horseman](https://www.imdb.com/title/tt3398228/)
+- [South park](https://trakt.tv/shows/south-park)
+- [Rick and Morty](https://trakt.tv/shows/rick-and-morty)
+- [The Powerpuff Girls](https://trakt.tv/shows/the-powerpuff-girls)
+
 ## Comedy
 
 - [Arrested Development](https://www.imdb.com/title/tt0367279)
-- [Bojack Horseman](https://www.imdb.com/title/tt3398228/)
 - [Brooklyn Nine-Nine](https://www.imdb.com/title/tt2467372/)
 - [Community](https://trakt.tv/shows/community)
 - [Freaks and Geeks](https://www.imdb.com/title)
 - [Last Week Tonight with John Oliver](https://www.imdb.com/title/tt3530232)
 - [Orange is the new black](https://trakt.tv/shows/orange-is-the-new-black)
 - [Parks and Recreation](https://www.imdb.com/title/tt1266020/)
-- [Rick and Morty](https://trakt.tv/shows/rick-and-morty)
 - [Seinfeld](https://www.imdb.com/title/tt0098904)
 - [Silicon valley](https://trakt.tv/shows/silicon-valley)
-- [South park](https://trakt.tv/shows/south-park)
+- [Succession] (https://trakt.tv/shows/succession)
 - [The Good Place](https://www.imdb.com/title/tt4955642/)
 - [The IT crowd](https://trakt.tv/shows/the-it-crowd)
+- [Real Time with Bill Maher](https://trakt.tv/shows/real-time-with-bill-maher)
+- [What We Do in the Shadows](https://trakt.tv/shows/what-we-do-in-the-shadows)
 
 ## Documentary
 
@@ -42,8 +49,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Californication](https://trakt.tv/shows/californication)
 - [Castle](https://trakt.tv/shows/castle)
 - [Dexter](https://trakt.tv/shows/dexter)
-- [Fargo](https://trakt.tv/movies/fargo-1996)
-- [Fargo](https://www.imdb.com/title/tt2802850)
+- [Fargo](https://trakt.tv/shows/fargo)
 - [Game of thrones](https://trakt.tv/shows/game-of-thrones)
 - [Halt and catch fire](https://trakt.tv/shows/halt-and-catch-fire)
 - [Hannibal](https://trakt.tv/shows/hannibal)
@@ -68,6 +74,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Mystery
 
 - [Hemlock Grove](https://trakt.tv/shows/hemlock-grove)
+- [Chapelwaite] (https://trakt.tv/shows/chapelwaite)
 
 ## Scifi
 
@@ -75,6 +82,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Firefly](https://trakt.tv/shows/firefly)
 - [Stargate SG-1](https://trakt.tv/shows/stargate-sg-1)
 - [The Expanse](https://trakt.tv/shows/the-expanse)
+- [The Mandalorian](https://trakt.tv/shows/the-mandalorian)
+- [Resident Alien](https://trakt.tv/shows/resident-alien)
 
 ## Related
 
