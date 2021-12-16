@@ -11,7 +11,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Related](#related)
 
 ## Animation
-- [Bojack Horseman](https://www.imdb.com/title/tt3398228/)
+- [Bojack Horseman](https://trakt.tv/shows/bojack-horseman)
+- [Harley Quinn](https://trakt.tv/shows/harley-quinn)
 - [South park](https://trakt.tv/shows/south-park)
 - [Rick and Morty](https://trakt.tv/shows/rick-and-morty)
 - [The Powerpuff Girls](https://trakt.tv/shows/the-powerpuff-girls)
