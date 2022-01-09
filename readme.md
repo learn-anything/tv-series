@@ -28,7 +28,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Parks and Recreation](https://www.imdb.com/title/tt1266020/)
 - [Seinfeld](https://www.imdb.com/title/tt0098904)
 - [Silicon valley](https://trakt.tv/shows/silicon-valley)
-- [Succession] (https://trakt.tv/shows/succession)
+- [Succession](https://trakt.tv/shows/succession)
 - [The Good Place](https://www.imdb.com/title/tt4955642/)
 - [The IT crowd](https://trakt.tv/shows/the-it-crowd)
 - [Real Time with Bill Maher](https://trakt.tv/shows/real-time-with-bill-maher)
@@ -75,7 +75,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Mystery
 
 - [Hemlock Grove](https://trakt.tv/shows/hemlock-grove)
-- [Chapelwaite] (https://trakt.tv/shows/chapelwaite)
+- [Chapelwaite](https://trakt.tv/shows/chapelwaite)
 
 ## Scifi
 
