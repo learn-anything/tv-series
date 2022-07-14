@@ -85,6 +85,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [The Expanse](https://trakt.tv/shows/the-expanse)
 - [The Mandalorian](https://trakt.tv/shows/the-mandalorian)
 - [Resident Alien](https://trakt.tv/shows/resident-alien)
+- [Travelers (2016)](https://trakt.tv/shows/travelers-2016)
 
 ## Related
 
